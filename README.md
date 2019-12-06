@@ -1,2 +1,3 @@
-# mataskaucikasCV
-Online based cv
+# Matas Kaucikas CV
+
+An online based CV, that showcases all my expriences
